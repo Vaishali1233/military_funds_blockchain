@@ -22,6 +22,7 @@ This feature serves as a platform for managing funds transactions utilizing bloc
 ## Satellite Image Anomaly Detection System
 
 This feature contains a system designed for detecting anomalies in satellite images of planes and ships. The system is trained on a dataset comprising satellite images using Convolutional Neural Networks (CNN), Artificial Neural Networks (ANN), and Computer Vision (CV) techniques.
+
 Objective here is to create a real-time anomaly detection system capable of continuously analyzing satellite images. If any anomaly is detected in these images, an alert is sent to the administrator device. Additionally, the system supports the connection of multiple devices, with notifications delivered to all connected devices using PushBullet.
 
 ## Technologies Used
@@ -39,5 +40,13 @@ Objective here is to create a real-time anomaly detection system capable of cont
 - **Alert Notification**: Sends immediate alerts to the administrator device upon anomaly detection.
 - **Scalability**: Supports the connection of multiple devices for receiving notifications.
 
+## Model Accuracy
+
+The accuracy metrics for the trained models are as follows:
+
+- **Plane Model**: 98% accuracy with 0.02 loss.
+- **Ship Model**: 96% accuracy with 0.08 loss.
+
+These metrics demonstrate the high accuracy and low loss rates achieved by the models, ensuring effective anomaly detection in satellite images of planes and ships.
 
 
