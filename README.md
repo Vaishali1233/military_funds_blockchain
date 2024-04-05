@@ -4,6 +4,8 @@
 
 This feature serves as a platform for managing funds transactions utilizing blockchain technology. Transactions including additions, withdrawals, and any other fund-related activities are securely recorded and tracked within this system. All modifications and accesses to this platform are meticulously logged for transparency and accountability.
 
+![BlockChain Flowchart](Images/BlockChainFlowChart.png)
+
 ### Technologies Used
 
 - **Blockchain**: Utilized for secure and immutable record-keeping of funds transactions.
