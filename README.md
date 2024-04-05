@@ -28,8 +28,8 @@ This feature contains a system designed for detecting anomalies in satellite ima
 ![Plane Detection](Images/Plane_Detection.png)
 
 Objective here is to create a real-time anomaly detection system capable of continuously analyzing satellite images. If any anomaly is detected in these images, an alert is sent to the administrator device. Additionally, the system supports the connection of multiple devices, with notifications delivered to all connected devices using PushBullet.
-![Alerts](Alert_Screenshot.png)
-![Alerts](Alerting.png)
+![Alerts](Images/Alert_Screenshot.png)
+![Alerts](ImagesAlerting.png)
 ## Technologies Used
 
 - **Dataset**: A collection of satellite images of planes and ships.
