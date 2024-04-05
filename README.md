@@ -4,6 +4,8 @@
 
 This feature serves as a platform for managing funds transactions utilizing blockchain technology. Transactions including additions, withdrawals, and any other fund-related activities are securely recorded and tracked within this system. All modifications and accesses to this platform are meticulously logged for transparency and accountability.
 
+![BlockChain Flowchart](Images/BlockChainFlowchart.png)
+
 ### Technologies Used
 
 - **Blockchain**: Utilized for secure and immutable record-keeping of funds transactions.
@@ -18,13 +20,18 @@ This feature serves as a platform for managing funds transactions utilizing bloc
 - **Immutable Ledger**: The use of blockchain ensures that transaction records are tamper-proof and transparent.
 - **User-Friendly Interface**: The frontend, built with React, provides an intuitive and accessible platform for managing funds transactions.
 
+![Blockchain Screenshot Presenting fund transaction](Images/Blockchain.png)
 
 ## Satellite Image Anomaly Detection System
 
 This feature contains a system designed for detecting anomalies in satellite images of planes and ships. The system is trained on a dataset comprising satellite images using Convolutional Neural Networks (CNN), Artificial Neural Networks (ANN), and Computer Vision (CV) techniques.
 
+![Ship Detection](Images/Ship_Detection.png)
+![Plane Detection](Images/Plane_Detection.png)
+
 Objective here is to create a real-time anomaly detection system capable of continuously analyzing satellite images. If any anomaly is detected in these images, an alert is sent to the administrator device. Additionally, the system supports the connection of multiple devices, with notifications delivered to all connected devices using PushBullet.
 
+![Alerts](Images/Alerting.png)
 ## Technologies Used
 
 - **Dataset**: A collection of satellite images of planes and ships.
@@ -46,6 +53,7 @@ The accuracy metrics for the trained models are as follows:
 
 - **Plane Model**: 98% accuracy with 0.02 loss.
 - **Ship Model**: 96% accuracy with 0.08 loss.
+![Model Accuracy and Loss](Images/ModelAccuracy.png)
 
 These metrics demonstrate the high accuracy and low loss rates achieved by the models, ensuring effective anomaly detection in satellite images of planes and ships.
 
