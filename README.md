@@ -18,6 +18,7 @@ This feature serves as a platform for managing funds transactions utilizing bloc
 - **Immutable Ledger**: The use of blockchain ensures that transaction records are tamper-proof and transparent.
 - **User-Friendly Interface**: The frontend, built with React, provides an intuitive and accessible platform for managing funds transactions.
 
+![alt text](https://github.com/deepalii05/military_funds_blockchain/blob/master/Images/Blockchain.png?raw=true)
 
 ## Satellite Image Anomaly Detection System
 
